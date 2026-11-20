@@ -1,2 +1,2 @@
-# .gitignore
+# IMDB-Board
 in class
