@@ -1,0 +1,2 @@
+# .gitignore
+in class
